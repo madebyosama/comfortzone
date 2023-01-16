@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "5e5e5b88a8898f35a096ed78"
+  },
+  "title": "sadfsdfsadfjlkasdjfklasfkljasklfjklasdj",
+  "description": "wdafjjasdjfkajsdklfjaskfjklasdjfkljasdlfjalskjflksdjklf",
+  "requiredAmount": 123123,
+  "imageUrl": "http://localhost:3000undefined",
+  "isApproved": "Rejected",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5e5fea8a20070d9ca57edf"
+  },
+  "title": "This is the title of fund",
+  "description": "This is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fundThis is the title of fund",
+  "requiredAmount": 234234,
+  "imageUrl": "http://localhost:3000/uploads/ad-003b.jpg",
+  "isApproved": "Rejected",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5975b0e3137d315c64418a"
+  },
+  "title": "Please Help Javed Save His Life",
+  "description": "M. Tariq Javed is a father of two daughters and one son and a resident of Faisalabad, Pakistan.   He used to work as a medical distributor but is currently not employed. He has been diabetic since his childhood, however,    the diseases were diagnosed at the age of 18.    In 2014,  his left leg was amputated due to blood clots in the veins.   In 2019, he has been diagnosed with the same problem in the right leg. To save this leg and essentially the life of  Tariq a bypass is needed and two other surgeries (stents). The total cost is 6 .5 lakhs (PKR) which at this point can not be afforded by the family.   I have also the medical reports and x-ray for the reference. ",
+  "imageUrl": "http://localhost:3000/uploads/fund-001.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 1000
+},{
+  "_id": {
+    "$oid": "5e5cf491117512302c5501ac"
+  },
+  "title": "Save UCSB Student Yasmine Lahdab from Deportation",
+  "description": "M. Tariq Javed is a father of two daughters and one son and a resident of Faisalabad, Pakistan.   He used to work as a medical distributor but is currently not employed. He has been diabetic since his childhood, however,    the diseases were diagnosed at the age of 18.    In 2014,  his left leg was amputated due to blood clots in the veins.   In 2019, he has been diagnosed with the same problem in the right leg. To save this leg and essentially the life of  Tariq a bypass is needed and two other surgeries (stents). The total cost is 6 .5 lakhs (PKR) which at this point can not be afforded by the family.   I have also the medical reports and x-ray for the reference. ",
+  "imageUrl": "http://localhost:3000/uploads/fund-002.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 1000
+},{
+  "_id": {
+    "$oid": "5e5cffb8117512302c5501ad"
+  },
+  "title": "Felix Garnett College Fund",
+  "description": "M. Tariq Javed is a father of two daughters and one son and a resident of Faisalabad, Pakistan.   He used to work as a medical distributor but is currently not employed. He has been diabetic since his childhood, however,    the diseases were diagnosed at the age of 18.    In 2014,  his left leg was amputated due to blood clots in the veins.   In 2019, he has been diagnosed with the same problem in the right leg. To save this leg and essentially the life of  Tariq a bypass is needed and two other surgeries (stents). The total cost is 6 .5 lakhs (PKR) which at this point can not be afforded by the family.   I have also the medical reports and x-ray for the reference. ",
+  "imageUrl": "http://localhost:3000/uploads/fund-003.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 5000
+},{
+  "_id": {
+    "$oid": "5e5d000b117512302c5501ae"
+  },
+  "title": "Modern School for Children in Sector 4, Pakistan",
+  "description": "Hello I am Ahmed Raza I live in Pakistan I want the poor villagers from my village to be educated. Currently Government School’s are not providing quality Education there and teachers are not serious about children education villagers can not afford to send their child to a private School. That is why i want to establish a Modern School in my village where free Education is provided to everyone if I succeed in this mission . I will look forward to raise more funds and establish School in all over Pakistan’s low literacy and low income areas.",
+  "imageUrl": "http://localhost:3000/uploads/fund-004.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 3000
+},{
+  "_id": {
+    "$oid": "5e5d0090117512302c5501af"
+  },
+  "title": "Maria Walks for Life",
+  "description": "Meet Maria. Maria is 9 years old. She is bright, kind-hearted, and full of laughter. She loves to play with her baby brother and older siblings, zipping around the playground, going down slides. However, Maria's running and walking days are limited. Maria was born with a rare, progressive disease called Morquio Syndrome, also known as MPS Type IV. Morquio Syndrome is a type of lysosomal storage disorder. It is progressive, degenerative, unforgiving, and without proper intervention, patients will eventually lose mobility and require regular use of a wheelchair.",
+  "imageUrl": "http://localhost:3000/uploads/fund-005.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 10000
+},{
+  "_id": {
+    "$oid": "5e5d00bd117512302c5501b0"
+  },
+  "title": "The Lin Family",
+  "description": "On February 14, 2020 there was a tragic car accident in Washington Township, NJ.  Two children were critically injured.  Joanne, a sophomore at North Hunterdon High School, and David, a 6th grader in Clinton Public School.  The driver who is their grandfather was also critically injured.   Joanne's injuries are immediately life threatening.  Out of respect for the families privacy, I cannot go into details, but I've included a link to the News Article from Lehigh Valley Live .    I'm starting this fund raiser in an effort to offset some of the financial burden that is to come with medical and/or final expenses.  The parents run a local business in Washington Township and have not been able to run at capacity since they have been by their children's' side.  Anything anyone is willing to give is greatly appreciated.  Even if it's just prayers (of which they are in dire need).   At present time i'm not able to disclose specific details, but I'll be sure to update this as soon as I have the family's consent.",
+  "imageUrl": "http://localhost:3000/uploads/fund-006.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 50000
+},{
+  "_id": {
+    "$oid": "5e5d00e1117512302c5501b1"
+  },
+  "title": " Health Treatment",
+  "description": "I need some donations from my All Friends. My sister is Suffering from Kidney Failure. My daughter is Suffering from TB. Anyone please Understand our Situation.",
+  "imageUrl": "http://localhost:3000/uploads/fund-007.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 5000
+},{
+  "_id": {
+    "$oid": "5e5d0135117512302c5501b2"
+  },
+  "title": "Help for my mother patients of cancer",
+  "description": "My mother is patient of CA  03495222648",
+  "imageUrl": "http://localhost:3000/uploads/fund-008.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 15000
+},{
+  "_id": {
+    "$oid": "5e5d018e117512302c5501b3"
+  },
+  "title": "Owen's Australian Creature Rescue",
+  "description": "*** Update on clay koalas - please read before you donate!!  As this campaign continues to soar beyond what we ever thought possible, we unfortunately need to limit the number of clay koalas we commit to making and sending.  As such, we will not be able to say “thank you” with a koala for donations received after 11:59 pm PST, Sunday, January 19th.  With this said, all donations are still greatly appreciated!   Thank you ALL for helping a little boy do a BIG thing - Owen wishes he could send a clay koala to everyone in the world! We are so proud of this little boy and his kind heart.   You can contact us directly at littleclaykoalas@gmail.com  *** Like so many of us, Owen was devastated when he heard of the Australian bushfires, so we wanted to provide an outlet for him to feel like he could do something to help. He’s a huge animal lover and has been making clay characters for a while, so together we thought up the clay koala and offered it to friends and family as a “thank you” for donations for bushfire-affected animals. When he reached his initial goal of $1000 and started getting attention from local newspapers, we set an ambitious new goal of $5000 and initiated this gofundme campaign.  Never in a million years did we expect to be so successful or meet and hear from so many amazing people - you’re the world’s best!  If you made a donation of $50 or more before 11:59 pm PST, January 19th, please be sure to send your mailing address using the form here: https://forms.gle/VGFoya8RzKpq3b4p9  Donations will be going to Wildlife Rescue South Coast Inc who are currently building aviaries, boxes, and enclosures for displaced animals and helping individuals set up feeding stations on their properties, so animals whose homes and food sources have been destroyed have somewhere to go.   *** More information about Wildlife Rescue South Coast Incorporated: Wildlife Rescue South Coast Incorporated is a volunteer organisation which rescues, rehabilitates and releases injured, sick or orphaned native animals. we operate in the south of NSW. We are very proud of our excellent facilities for flying foxes and raptors (birds of prey), along with our specialists in possums & gliders, macropods, birds, wombats, reptiles, etc. All of our rescuers are unpaid volunteers.",
+  "imageUrl": "http://localhost:3000/uploads/fund-009.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 15000
+},{
+  "_id": {
+    "$oid": "5e5d0191117512302c5501b4"
+  },
+  "title": "Microbiota Transplant for Children with Autism",
+  "description": "Imagine moving from a diagnosis of “severe” autism to no longer meeting the criteria for autism spectrum disorder (ASD).  The recently completed Microbiota Transplant Therapy (MTT) Phase 1 study indicates such results are possible and sustainable.    At the beginning of the study, 83% of participants were classified as “severe” on an autism diagnosis scale. At a 2 year follow up, only 17% were still “severe”, and 44% no longer met the criteria for an autism diagnosis. Most participants had significant improvements in core autism symptoms and gastrointestinal problems.   MTT holds great promise as a potential treatment for ASD. The next step towards FDA approval is a larger, randomized, double-blind, placebo-controlled clinical trial for children with ASD. (We are also conducting a separate study for adults with ASD, and the fundraising for that study is complete).  We need your help to move this research forward. We need to raise $900,000 to start the study and treat 50 children with ASD.  An anonymous donor has pledged $100,000 in matching funds, so the first set of donations will be doubled!  Donations via GoFundMe are being sent to the Autism Nutrition Research Center (ANRC) because ASU cannot receive funds directly from GoFundMe.  ANRC is a 501©3 non-profit led by Prof. Adams which raises funds for autism research, and pledges that 100% of the funds received from GoFundMe will be sent to ASU to support this research.   Alternatively donations may be given directly to the ASU Foundation via Pitchfunder, which is their version of GoFundMe.  See https://pitchfunder.asufoundation.org/project/15551  Please note that participating as a donor does not give you advance notice of recruitment or an opportunity to reserve a slot.  Anyone interested in participating in the study may register at:   https://autism.asu.edu/content/waitlist-child-mtt-study When the study is fully funded we will announce the full application to everyone on the contact list, and will randomly select applicants from people who apply.  Thank you for your support!  Sincerely,  Prof. James B. Adams, PhD (autism researcher and autism dad)  Prof. Rosa Krajmalnik-Brown, PhD (microbiome expert)  Arizona State University http://autism.asu.edu",
+  "imageUrl": "http://localhost:3000/uploads/fund-010.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 15000
+},{
+  "_id": {
+    "$oid": "5e5d0193117512302c5501b5"
+  },
+  "title": "Australian Bushfire Appeal",
+  "description": "LET'S HELP BUSHFIRE EFFECTED COMMUNITIES AND REGIONS  The Australian Red Cross provides support and relief for:  - Supporting people at evacuation centres and recovery hubs - Emergency assistance (including cash grants to people who have lost homes in these bushfires) - Supporting our volunteers and covering their expenses - Longer-term recovery programs in disaster-affected communities  Let's team together to help make a difference. Every little bit counts.",
+  "imageUrl": "http://localhost:3000/uploads/fund-011.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 15000
+},{
+  "_id": {
+    "$oid": "5e5d0196117512302c5501b6"
+  },
+  "title": "Green Turtle Cay Hurricane Relief (GTC Foundation)",
+  "description": "Official Hurricane Dorian Relief Fund sponsored by The Green Turtle Cay Foundation.  Specifically raising funds to benefit the residents and businesses of Green Turtle Cay, Bahamas  Green Turtle Cay Foundation was founded by longtime GTC supporter Dixon Montague .  Current Foundation Board Members are:   Allen Crosswell, Phillip Smith, Patrick Koenig, Sr. and  Giselle McIntosh  The Green Turtle Cay Foundation was formed to promote the common good and general welfare of the community in and around the area of the Town of New Plymouth, Green Turtle Cay, Abaco, Bahamas, and to promote, develop, redevelop, encourage and maintain housing, education, healthcare, employment, commerce, economic development and transportation facilities in the Green Turtle Cay community.     All funds will be distributed locally on Green Turtle Cay to affected Bahamian residents   **WE WILL BE COORDINATING EFFORTS WITH THE GREEN TURTLE CLUB/ FRIENDS OF EMPTY POCKETS FUNDRAISER TO FUND THE INITIAL RELIEF EFFORTS",
+  "imageUrl": "http://localhost:3000/uploads/fund-012.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 15000
+},{
+  "_id": {
+    "$oid": "5e5d0334117512302c5501b7"
+  },
+  "title": "Honor the life of Max Martinez",
+  "description": "Yesterday we lost the greatest soul any of us have ever known. Max was the definition of an incredible person; he had the ability to make light of every situation and was the happiest, most go-lucky person who never failed to bring positive energy.   His personality, smile, and laugh were infectious. Anyone who ever spent more than 30 seconds with Max felt a deep bond of friendship and love for him.  There is no one who could brighten your day or do something to make you laugh better than Max. He was beloved by everyone. It was impossible to go anywhere with Max without everyone in the room trying to talk to him.   Max brought an energy that I can confidently say, for everyone, is something that cannot be duplicated.  We will all miss Max for the rest of our lives, but we all have enough wonderful, funny, happy memories of him to last us multiple lifetimes.   We want to donate this money to cover the funeral expenses for his family and any other cost that they may incur.   Max, we will love you forever, you touched all of us in ways that cannot be explained in words.   Rest easy, beautiful soul.",
+  "imageUrl": "http://localhost:3000/uploads/fund-013.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 2000
+},{
+  "_id": {
+    "$oid": "5e5d0339117512302c5501b8"
+  },
+  "title": "Austin Phothiboupha’s Funeral Service",
+  "description": "If you haven’t heard already, our sweet baby brother passed away unexpectedly. He was at the Alaska club playing basketball and suddenly collapsed out of no where. His heart stopped beating and after over an hour of chest compressions they got a very faint pulse. He lost a lot of oxygen to his brain and his organs started to fail. They are still doing an autopsy to find the exact reason his heart stopped beating that night on the court. We lost Our brother Austin at 5:44 pm. Alaska time on February 26, 2020.   Austin was one of a kind. He was a son, a brother, an uncle, and friend to many. He was educated, sweet, dedicated to his family and friends, and the BEST singer. We are asking for donations to pay for his funeral services. Any contributions are greatly appreciated.  *UPDATE* The funeral service will be on March 4, 2020 at Legacy funeral home 11621 Old Seward Hwy 99515 at 1:00 pm. Please carpool if possible, parking will be packed",
+  "imageUrl": "http://localhost:3000/uploads/fund-014.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 15000
+},{
+  "_id": {
+    "$oid": "5e5d0341117512302c5501b9"
+  },
+  "title": "Pavel Buts Family Fund",
+  "description": "Recordings of funeral and memorial services for Pavel can be found here: https://firstslavic.com/live _______________________________________________________________________ With permission of the Buts family, this fundraiser is set up for the benefit of the family of Pavel Buts. PLEASE SEE \"UPDATES\" FOR MOST RECENT INFORMATION AND PHOTOS  On May 27, 2019 Pavel Buts went to be home with Jesus. He had just turned 35 years old one month ago.  Pavel and his family were returning home from a family trip when another driver cut them off, causing their vehicle to lose control and roll over multiple times. Pavel's wife Elena and their five kids were rushed to the hospital with multiple injuries and still await surgeries. However, Pavel did not survive the accident.  From what we know, he died at the scene while trying to protect his family.  Pavel leaves his dear wife Elena (33), and five kids - Andrew (13), Max (11), Kirill (9), Ana (8) and Katie (6). Everyone who knows Pavel can testify to his loving heart, always smiling and willing to help others. He was the most generous, loving, funny, caring person. His greatest devotion was to his family - he was a devoted husband to his wife and a loving father to his children. Pavel was the sole breadwinner of the family and worked very hard to care for everyone. The family had moved to the East Coast less than a year ago to embark on a new family journey, leaving most relatives on the West Coast. Words cannot describe the pain and loss the family is going through - we urgently ask to pray for the family.  1. Please PRAY for Pavel's family, especially his wife Elena, for the Lord to give her strength to weather this storm. Please also pray for their physical condition as Elena and some of the children will need to have surgeries performed.  2. If you are led to help financially, please do so. It can be foreseen that the financial impact on the family will be deep and every little bit will help, especially because Pavel was self-employed and the family has no insurance - it will be a blessing to the family. All funds will be directed to the benefit of Pavel's wife Elena and their children. If you know the family personally, feel free to support them directly. You can also send funds directly here: https://www.paypal.me/pavelbuts",
+  "imageUrl": "http://localhost:3000/uploads/fund-015.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 1500
+},{
+  "_id": {
+    "$oid": "5e5d03dd117512302c5501ba"
+  },
+  "title": "Support for Andy Powell",
+  "description": "Yesterday we lost an amazing hero, Andy Powell, who selflessly lost his life while saving others. He will tragically never get to meet his baby girl, who is due in August.  This GoFundMe Campaign has been set up to raise proceeds for Amber and Andy’s baby girl, and to support his beautiful partner Amber through their time of need and the next phase of life without Andy.  Every donation, no matter how big or small, helps. All money raised will go directly to Amber and their family to ease their burden during this difficult time.  Andy was loved by so many and would have been the most amazing father. He will be so missed and forever in our hearts.  https://www.theage.com.au/national/victoria/father-and-son-drown-trying-to-save-tourist-at-port-campbell-20190421-p51fyc.html",
+  "imageUrl": "http://localhost:3000/uploads/fund-016.jpg",
+  "isApproved": "Approved",
+  "requiredAmount": 5000
+},{
+  "_id": {
+    "$oid": "5e5e60bb8a20070d9ca57ee0"
+  },
+  "title": "This is a new fundThis is a new fund",
+  "description": "This is a new fundThis is a new fundThis is a new fundThis is a new fundThis is a new fundThis is a new fund",
+  "requiredAmount": 23213,
+  "imageUrl": "http://localhost:3000undefined",
+  "isApproved": "Rejected",
+  "__v": 0
+}]

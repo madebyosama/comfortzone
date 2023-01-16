@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="77" viewBox="0 0 77 77">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="77" height="77" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_74" data-name="Group 74" transform="translate(-86.739 -271.739)">
+    <g transform="matrix(1, 0, 0, 1, 86.74, 271.74)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="28" cy="28" r="28" transform="translate(10.5 10.5)" fill="#159570"/>
+    </g>
+    <g id="mortarboard" transform="translate(110.49 302.019)">
+      <path id="Path_3" data-name="Path 3" d="M28.921,47.416l-13.885-4.9a.864.864,0,0,0-.575,0L.577,47.416a.864.864,0,0,0,0,1.629l13.885,4.936a.864.864,0,0,0,.579,0l13.885-4.936a.864.864,0,0,0,0-1.629Z" transform="translate(0 -42.468)" fill="#fff"/>
+      <path id="Path_4" data-name="Path 4" d="M433.448,205.272v-7.538l-1.728.614v6.924a1.735,1.735,0,0,0,0,3.01v4.247a.864.864,0,1,0,1.728,0v-4.247a1.735,1.735,0,0,0,0-3.01Z" transform="translate(-406.026 -188.789)" fill="#fff"/>
+      <path id="Path_5" data-name="Path 5" d="M114.118,225.337a2.586,2.586,0,0,1-.868-.15l-7.806-2.775v3.8c0,.93.971,1.717,2.885,2.339a20.373,20.373,0,0,0,11.578,0c1.914-.621,2.885-1.408,2.885-2.339v-3.8l-7.806,2.775A2.587,2.587,0,0,1,114.118,225.337Z" transform="translate(-99.369 -212.045)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

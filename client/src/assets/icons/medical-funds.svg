@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="77" viewBox="0 0 77 77">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="77" height="77" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="medical-funds" transform="translate(-68.5 -362.5)">
+    <g id="Group_74" data-name="Group 74" transform="translate(-18.239 90.761)">
+      <g transform="matrix(1, 0, 0, 1, 86.74, 271.74)" filter="url(#Ellipse_1)">
+        <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="28" cy="28" r="28" transform="translate(10.5 10.5)" fill="#159570"/>
+      </g>
+    </g>
+    <path id="icons8_medical_bag_3" d="M15,3C8.119,3,6.47,6.115,6.1,8H8.174C8.611,6.741,10.1,5,15,5s6.408,1.683,6.838,3H23.9C23.53,6.115,21.881,3,15,3ZM5.6,10a2,2,0,0,0-1.963,1.613A34.075,34.075,0,0,0,3,18c0,4.418,1.343,8,3,8H24c1.657,0,3-3.582,3-8a34.074,34.074,0,0,0-.635-6.387A2,2,0,0,0,24.4,10ZM15,12a6,6,0,1,1-6,6A6,6,0,0,1,15,12Zm-.016,1.988A1,1,0,0,0,14,15v2H12a1,1,0,1,0,0,2h2v2a1,1,0,1,0,2,0V19h2a1,1,0,1,0,0-2H16V15a1,1,0,0,0-1.014-1.012Z" transform="translate(92 387)" fill="#fff"/>
+  </g>
+</svg>

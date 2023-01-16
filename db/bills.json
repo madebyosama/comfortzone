@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "5e4bfdb959f0034b4c9e4052"
+  },
+  "dateOfIssue": {
+    "$date": "2020-02-17T19:00:00Z"
+  },
+  "dueDate": {
+    "$date": "2020-02-29T19:00:00Z"
+  },
+  "arrearAmount": 0,
+  "waterCharges": 0,
+  "conservancyCharges": 300,
+  "streetLightCharges": 300,
+  "roadMaintenanceCharges": 300,
+  "graveyardCharges": 0,
+  "electricityCharges": 1120,
+  "totalAmount": 1890,
+  "dueAmount": 3000,
+  "userId": "5e5a67c4782c2927cc086e43",
+  "isPaid": true
+},{
+  "_id": {
+    "$oid": "5e5e2358be530210f4201206"
+  },
+  "dateOfIssue": {
+    "$date": "2020-02-17T19:00:00Z"
+  },
+  "dueDate": {
+    "$date": "2020-02-29T19:00:00Z"
+  },
+  "arrearAmount": 990,
+  "waterCharges": 0,
+  "conservancyCharges": 300,
+  "streetLightCharges": 300,
+  "roadMaintenanceCharges": 300,
+  "graveyardCharges": 0,
+  "electricityCharges": 1120,
+  "totalAmount": 1890,
+  "dueAmount": 3600,
+  "userId": "5e5d5fc6c43f4b25dcb0d2f2",
+  "isPaid": false
+},{
+  "_id": {
+    "$oid": "5e5e235bbe530210f4201207"
+  },
+  "dateOfIssue": {
+    "$date": "2020-02-17T19:00:00Z"
+  },
+  "dueDate": {
+    "$date": "2020-02-29T19:00:00Z"
+  },
+  "arrearAmount": 990,
+  "waterCharges": 0,
+  "conservancyCharges": 300,
+  "streetLightCharges": 300,
+  "roadMaintenanceCharges": 300,
+  "graveyardCharges": 0,
+  "electricityCharges": 1120,
+  "totalAmount": 2300,
+  "dueAmount": 3000,
+  "userId": "5e5c1635935cb534e808da9d",
+  "isPaid": false
+}]

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="77" viewBox="0 0 77 77">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="77" height="77" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="personal-funds" transform="translate(-68.5 -362.5)">
+    <g id="memorial-funds">
+      <g id="medical-funds">
+        <g id="Group_74" data-name="Group 74" transform="translate(-18.239 90.761)">
+          <g transform="matrix(1, 0, 0, 1, 86.74, 271.74)" filter="url(#Ellipse_1)">
+            <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="28" cy="28" r="28" transform="translate(10.5 10.5)" fill="#159570"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="icons8_person" d="M16.721,3A6.938,6.938,0,0,0,9.782,9.939V11.1a6.939,6.939,0,0,0,13.878,0V9.939A6.938,6.938,0,0,0,16.721,3ZM12.208,22.143c-3.394.887-6.6,2.557-7.777,4.093A2.1,2.1,0,0,0,6.114,29.6H27.326a2.1,2.1,0,0,0,1.683-3.366c-1.181-1.536-4.382-3.2-7.775-4.091a6.921,6.921,0,0,1-9.026,0Z" transform="translate(90.279 384.201)" fill="#fff"/>
+  </g>
+</svg>

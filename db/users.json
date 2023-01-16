@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5e4e5a4ff3ec5c329c0bd6d5"
+  },
+  "name": "Muhammad Osama",
+  "cnic": "37103-9911831-5",
+  "dob": {
+    "$date": "1997-01-25T19:00:00Z"
+  },
+  "email": "imuhammadosama@Oudasdtlook.com",
+  "imageUrl": "http://localhost:3000/uploads/osama.jpg",
+  "houseID": "2353",
+  "membershipID": "2",
+  "sector": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5a67c4782c2927cc086e43"
+  },
+  "name": "Muhammad Osama",
+  "email": "imuhammadosama@comfortzone.pk",
+  "sector": "4",
+  "imageUrl": "http://localhost:3000/uploads/osama.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5c1635935cb534e808da9d"
+  },
+  "name": "Haris Mehmood",
+  "email": "harismehmood@comfortzone.pk",
+  "sector": "4",
+  "imageUrl": "http://localhost:3000/uploads/haris.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5d5fc6c43f4b25dcb0d2f2"
+  },
+  "name": "Rana Waqar",
+  "email": "ranawaqar@comfortzone.pk",
+  "sector": "4",
+  "imageUrl": "http://localhost:3000/uploads/rana.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e60bff614f4a32e3c5028e2"
+  },
+  "name": "Xyzasdasd",
+  "email": "xyz@comfortzone.pk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e60c11514f4a32e3c5028e3"
+  },
+  "name": "sdjkfasdkljfklasdjfkl",
+  "email": "asjdadskja@fsjjdf.com",
+  "__v": 0
+}]
